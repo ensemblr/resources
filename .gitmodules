@@ -1,0 +1,3 @@
+[submodule "smile"]
+	path = smile
+	url = git@github.com:haifengl/smile.git
